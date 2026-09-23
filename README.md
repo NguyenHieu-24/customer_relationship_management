@@ -212,7 +212,7 @@ The record model has no relationship to the user account. All authenticated user
 ---
 
 # Team
-| Contributor | Contribution listed in the original README |
+| Contributor | Role |
 | --- | --- |
 | Nguyen Hieu Nguyen | Backend Developer |
 | Hoang Thanh Ngo | Backend Developer |
